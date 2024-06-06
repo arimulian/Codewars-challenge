@@ -11,8 +11,3 @@ function solution($number): int
     return $result;
 
 }
-
-
-it('func solution test', function () {
-expect(solution(10))->toBe(23);
-});

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e369bca-6d2a-4b27-a46d-a1ae63077747" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pest Test" />
+        <option value="Pest It" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/arimulian/Codewars-challenge.git&quot;,
+    &quot;accountId&quot;: &quot;d34754f3-168d-4e25-bca9-a4a13471e832&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Tools\laragon\bin\php\php-8.3.6\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/pestphp/pest" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/pestphp/pest-plugin-arch" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/pestphp/pest-plugin" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/vendor/ta-tikoma/phpunit-architecture-test" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/brianium/paratest" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/fidry/cpu-core-counter" />
+      <path value="$PROJECT_DIR$/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2hEpmfdC3igh1O7f3XmWsN4Gxcb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Composer Script.test.executor": "Run",
+    "JavaScript Debug.RockPaperScissors.php.executor": "Debug",
+    "JavaScript Debug.rockTest.php.executor": "Run",
+    "PHP Script.RockPaperScissors.php.executor": "Run",
+    "PHP Script.TestExecute.php.executor": "Run",
+    "PHP Script.test.php.executor": "Debug",
+    "Pest.1-RockPaperScissors.php.executor": "Run",
+    "Pest.1-RockPaperScissors.php::func rpc test.executor": "Run",
+    "Pest.1-RockPaperScissorsTest.php.executor": "Run",
+    "Pest.1-RockPaperScissorsTest.php::func rpc test.executor": "Run",
+    "Pest.1-RockpaperscissorsTest.php::example.executor": "Run",
+    "Pest.1-RocksaperscissorsTest.php.executor": "Run",
+    "Pest.1-RocksaperscissorsTest.php::func rpc test.executor": "Run",
+    "Pest.1RocksaperscissorsTest.php::func rpc test.executor": "Run",
+    "Pest.Count_By_7_Test.php::it func Count By Test.executor": "Run",
+    "Pest.EvenOrOdd_2_Test.php::`func even_or_odd Test` → .executor": "Run",
+    "Pest.EvenOrOdd_2_Test.php::func even_or_odd Test.executor": "Run",
+    "Pest.ExampleTest.php::example.executor": "Run",
+    "Pest.Multiple_6_Test.php.executor": "Debug",
+    "Pest.Multiple_6_Test.php::it func solution test.executor": "Run",
+    "Pest.Positive_sum_8_Test.php::it func Sum value, if a negative value to be ignore.executor": "Run",
+    "Pest.RockpaperscissorsTest.php::example.executor": "Run",
+    "Pest.Rocksaperscissors-1-Test.php::func rpc test.executor": "Run",
+    "Pest.Square_3_Test.php.executor": "Debug",
+    "Pest.Square_3_Test.php::it .executor": "Run",
+    "Pest.Square_3_Test.php::it func square_test.executor": "Debug",
+    "Pest.SumArr_4_Test.php::it Sum Arr.executor": "Run",
+    "Pest.VowelCount_5_Test.php::it .executor": "Debug",
+    "Pest.rockTest.php.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Tools/laragon/www/Codewars",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Tools\laragon\www\Codewars\challenge" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Pest.Positive_sum_8_Test.php::it func Sum value, if a negative value to be ignore">
+    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Count_By_7_Test.php::it func Count By Test" type="PestRunConfigurationType" temporary="true">
+      <option name="pestRunnerSettings">
+        <PestRunner file="$PROJECT_DIR$/tests/Unit/Count_By_7_Test.php" method="it func Count By Test" scope="Method" />
+      </option>
+      <option name="runnerSettings">
+        <PhpTestRunnerSettings file="$PROJECT_DIR$/tests/Unit/Count_By_7_Test.php" method="it func Count By Test" scope="Method" />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PestRunConfigurationType">
+      <option name="pestRunnerSettings">
+        <PestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="ConfigurationFile" use_alternative_configuration_file="true" />
+      </option>
+      <option name="runnerSettings">
+        <PhpTestRunnerSettings configuration_file="$PROJECT_DIR$/phpunit.xml" scope="ConfigurationFile" use_alternative_configuration_file="true" />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Multiple_6_Test.php::it func solution test" type="PestRunConfigurationType" temporary="true">
+      <option name="pestRunnerSettings">
+        <PestRunner file="$PROJECT_DIR$/tests/Unit/Multiple_6_Test.php" method="it func solution test" scope="Method" />
+      </option>
+      <option name="runnerSettings">
+        <PhpTestRunnerSettings file="$PROJECT_DIR$/tests/Unit/Multiple_6_Test.php" method="it func solution test" scope="Method" />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Positive_sum_8_Test.php::it func Sum value, if a negative value to be ignore" type="PestRunConfigurationType" temporary="true">
+      <option name="pestRunnerSettings">
+        <PestRunner file="$PROJECT_DIR$/tests/Unit/Positive_sum_8_Test.php" method="it func Sum value, if a negative value to be ignore" scope="Method" />
+      </option>
+      <option name="runnerSettings">
+        <PhpTestRunnerSettings file="$PROJECT_DIR$/tests/Unit/Positive_sum_8_Test.php" method="it func Sum value, if a negative value to be ignore" scope="Method" />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="SumArr_4_Test.php::it Sum Arr" type="PestRunConfigurationType" temporary="true">
+      <option name="pestRunnerSettings">
+        <PestRunner file="$PROJECT_DIR$/tests/Unit/SumArr_4_Test.php" method="it Sum Arr" scope="Method" />
+      </option>
+      <option name="runnerSettings">
+        <PhpTestRunnerSettings file="$PROJECT_DIR$/tests/Unit/SumArr_4_Test.php" method="it Sum Arr" scope="Method" />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="VowelCount_5_Test.php::it " type="PestRunConfigurationType" temporary="true">
+      <option name="pestRunnerSettings">
+        <PestRunner file="$PROJECT_DIR$/tests/Unit/VowelCount_5_Test.php" method="it " scope="Method" />
+      </option>
+      <option name="runnerSettings">
+        <PhpTestRunnerSettings file="$PROJECT_DIR$/tests/Unit/VowelCount_5_Test.php" method="it " scope="Method" />
+      </option>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Pest.Positive_sum_8_Test.php::it func Sum value, if a negative value to be ignore" />
+        <item itemvalue="Pest.Count_By_7_Test.php::it func Count By Test" />
+        <item itemvalue="Pest.Multiple_6_Test.php::it func solution test" />
+        <item itemvalue="Pest.VowelCount_5_Test.php::it " />
+        <item itemvalue="Pest.SumArr_4_Test.php::it Sum Arr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
+        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e369bca-6d2a-4b27-a46d-a1ae63077747" name="Changes" comment="" />
+      <created>1717169252594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717169252594</updated>
+      <workItem from="1717169253607" duration="70000" />
+      <workItem from="1717169334144" duration="7219000" />
+      <workItem from="1717176989522" duration="444000" />
+      <workItem from="1717177579994" duration="922000" />
+      <workItem from="1717178521277" duration="546000" />
+      <workItem from="1717179082410" duration="357000" />
+      <workItem from="1717220793903" duration="4368000" />
+      <workItem from="1717256127153" duration="4935000" />
+      <workItem from="1717374545650" duration="8720000" />
+      <workItem from="1717413917859" duration="24000" />
+      <workItem from="1717578179130" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PestRunConfigurationType">
+        <watch expression="$numbers[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

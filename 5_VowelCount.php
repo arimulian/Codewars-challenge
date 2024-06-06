@@ -11,8 +11,3 @@ function getCount($str) : int {
     }
     return $vowelsCount;
 }
-
-
-it('', function () {
-expect(getCount("abracadabra"))->toBe(5);
-});

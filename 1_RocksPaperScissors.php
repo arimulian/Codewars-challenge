@@ -18,9 +18,3 @@ function rpc($p1, $p2) : string
 
     return 'Draw!';
 }
-
-
-test('func rpc test', function () {
-
-expect(rpc('rock','rock'))->toBeString('Player 1 won!');
-});

@@ -10,7 +10,3 @@ function positive_sum($arr) {
     }
     return $sum;
 }
-it('func Sum value, if a negative value to be ignore', function () {
-expect(positive_sum([1, 2, 3, 4, 5]))->toBe(15)
-    ->and(positive_sum([1, -2, 3, 4, 5]))->toBe(13);
-});

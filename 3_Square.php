@@ -14,6 +14,3 @@ function square_sum($numbers): float|int
 
 print(square_sum([1,2,2]));
 
-it('func square_test', function () {
-    expect(square_sum([1,2,2]))->toBe(9);
-});
